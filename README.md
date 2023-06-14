@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoesser&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoesser" /> </p>
 
-- 📝 I regularly write articles on [www.flysecurity.com.br](www.flysecurity.com.br)
+- 📝 I regularly write articles on [blog.flysecurity.com.br](blog.flysecurity.com.br)
 
 - 💬 Ask me about **"DevSecOps" "Cloud Security" and "Malware Analysis"**
 
