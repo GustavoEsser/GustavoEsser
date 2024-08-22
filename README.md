@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo Esser</h1>
-<h3 align="center">Site Reliability Engineering - O2B In love with Information Security</h3>
+<h3 align="center">Platform engineering - In love with Information Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoesser&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoesser" /> </p>
 
 - 📝 I regularly write articles on [blog.flysecurity.com.br](blog.flysecurity.com.br)
 
-- 💬 Ask me about **"DevSecOps" "Cloud Security" and "Malware Analysis"**
+- 💬 Ask me about **"DevSecOps" "Cloud Security" and "Kubernetes Security"**
 
 - 📫 How to reach me **esser1997@protonmail.com**
 
