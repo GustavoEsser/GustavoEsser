@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoesser&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoesser" /> </p>
 
-- 📝 I regularly write articles on [blog.flysecurity.com.br](blog.flysecurity.com.br)
+- 📝 I regularly write articles on [blog.cloudscript.com.br](blog.cloudscript.com.br)
 
 - 💬 Ask me about **"DevSecOps" "Cloud Security" and "Kubernetes Security"**
 
-- 📫 How to reach me **esser1997@protonmail.com**
+- 📫 How to reach me **gustavo.esser@cloudscript.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
